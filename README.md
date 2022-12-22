@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nagutalli
-- 👀 I’m interested in python...
-- 🌱 I’m currently learning .python..
-- 💞️ I’m looking to collaborate on ...
+- 👀 I'm currently working and Learning on Data Science project
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
